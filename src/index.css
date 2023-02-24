@@ -1,7 +1,7 @@
 @import-normalize; /* bring in normalize.css styles */
 
 body {
-  background-color: rgb(167, 234, 234);
+  background-color: #a9eaea;
   padding-top: 20px;
   padding-left: 20px;
   padding-bottom: 20px;
